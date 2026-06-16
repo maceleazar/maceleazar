@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Esmalglass<br>🌱 I’m currently learning Java and C#<br>👯 I’m looking to collaborate on OpenSource projects<br>⚡Ask me about fun thinks
+🖥️​ I have worked for the altadia group <br>🔭 I’m currently looking for a job<br>🌱 I’m currently learning Java and C#<br>👯 I’m looking to collaborate on OpenSource projects<br>⚡Ask me about fun thinks
 
 
 ## 🌐 Socials:
